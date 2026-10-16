@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="#-快速开始与本地游玩">
-    <img src="https://img.shields.io/badge/▶_立即体验试玩_Demo-d97706?style=for-the-badge&logoColor=white" height="40" alt="Try the online demo"/>
+  <a href="https://big-player.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/▶_立即在线体验试玩_Demo-d97706?style=for-the-badge&logoColor=white" height="40" alt="Try the online demo"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>无需外部服务器 · 浏览器离线秒开即玩 · 支持手机触屏震动与桌面全屏</sub>
+  <sub>🌐 在线演示网址：<a href="https://big-player.pages.dev">https://big-player.pages.dev</a> · 浏览器离线秒开即玩 · 支持手机触控与桌面全屏</sub>
 </p>
 
 ---
@@ -27,6 +27,7 @@
   再与性格各异的名士周旋，换回古画、名剑、官窑瓷器，最终建成属于自己的传世私人博物馆。
 </p>
 
+[![Live Demo](https://img.shields.io/badge/Cloudflare_Pages-在线试玩-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)](https://big-player.pages.dev)
 [![Release](https://img.shields.io/badge/release-v0.4.0-f97316.svg?style=flat-square)](https://github.com/binterore/big-player/releases)
 [![Build](https://img.shields.io/badge/build-passing-emerald.svg?style=flat-square)](https://github.com/binterore/big-player)
 [![Tests](https://img.shields.io/badge/tests-5%2F5%20passed%20(100%25)-blue.svg?style=flat-square)](https://github.com/binterore/big-player)
